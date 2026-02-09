@@ -31,14 +31,14 @@ This repository is used to document hands-on security operations work, incident-
 
 ## **Personal Projects**
 
-| <font color="#4f81bd">Focus Area                         | <font color="#4f81bd">Implementation details </font>                                                    |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Lab Environment](/Personal-Projects/Lab-Environment.md) | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
-| Identity & Authentication                                | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
-| Log Analysis                                             | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
-| Detection                                                | Brute-force authentication patterns, anomalous logon behavior                                           |
-| Endpoint Security                                        | Microsoft Defender alerts, process tree analysis, execution context                                     |
-| Network Monitoring                                       | Suricata alerts, basic traffic inspection, alert validation                                             |
+| <font color="#4f81bd">Focus Area                                                                        | <font color="#4f81bd">Implementation details </font>                                                    |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Lab Environment](https://github.com/AtlasVector/YB/blob/main/Personal%20Projects/Lab%20Environment.md) | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
+| Identity & Authentication                                                                               | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
+| Log Analysis                                                                                            | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
+| Detection                                                                                               | Brute-force authentication patterns, anomalous logon behavior                                           |
+| Endpoint Security                                                                                       | Microsoft Defender alerts, process tree analysis, execution context                                     |
+| Network Monitoring                                                                                      | Suricata alerts, basic traffic inspection, alert validation                                             |
 
 
 
