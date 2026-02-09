@@ -21,3 +21,11 @@ This repository is used to document hands-on security operations work, incident-
 | [Detection](https://github.com/AtlasVector/YB/)                 | Brute-force authentication patterns, anomalous logon behavior                                           |
 | [Endpoint Security](https://github.com/AtlasVector/YB/)         | Microsoft Defender alerts, process tree analysis, execution context                                     |
 | [Network Monitoring](https://github.com/AtlasVector/YB/)        | Suricata alerts, basic traffic inspection, alert validation                                             |
+## **Tools**
+
+#### Virtualization & Lab Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+</div>
