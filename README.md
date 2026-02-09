@@ -25,7 +25,9 @@ This repository is used to document hands-on security operations work, incident-
 | [Endpoint Security](https://github.com/AtlasVector/YB/)         | Microsoft Defender alerts, process tree analysis, execution context                                     |
 | [Network Monitoring](https://github.com/AtlasVector/YB/)        | Suricata alerts, basic traffic inspection, alert validation                                             |
 ## **Certifications**
-![[GSC-Cer 1.png]]
+<div>
+    <img src="/images/CySa%2B.png" />
+</div>
 
 
 ## **Tools**
