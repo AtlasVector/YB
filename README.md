@@ -10,53 +10,29 @@ Operations-focused security professional with experience in incident-driven envi
 
 This repository is used to document hands-on security operations work, incident-response exercises, and practical experiments around detection, escalation, and decision-making. The goal is to stay operationally sharp and grounded in how incidents actually unfold.
 
-## Certifications & Learning Paths
+## Certifications
 
-<table>
-  <tr>
-    <th align="left">Learning Paths</th>
-    <th align="left">Certifications</th>
-  </tr>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
-  <tr>
-    <td width="50%" valign="top">
-      <div style="text-align: center;">
-        <img src="/images/THM-AoC.png" width="80" alt="TryHackMe Advent of Cyber" />
-        <p><strong>TryHackMe – Advent of Cyber 2025</strong><br/>
-        Hands-on blue-team and attack-simulation challenges focused on detection and investigation.</p>
-      </div>
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/CySa%2B.png" width="90" alt="CompTIA CySA+" />
+    <p><strong>CompTIA CySA+</strong><br/>
+    Blue-team focused certification covering detection, analysis, and incident response.</p>
+  </div>
 
-      <div style="text-align: center;">
-        <img src="/images/THM-JPT.png" width="80" alt="TryHackMe Junior Penetration Tester" />
-        <p><strong>TryHackMe – Junior Penetration Tester</strong><br/>
-        Practical labs covering reconnaissance and exploitation to better understand detection logic.</p>
-      </div>
-    </td>
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/GSC-Cer.png" width="90" alt="Google Cybersecurity Certificate" />
+    <p><strong>Google Cybersecurity Certificate</strong><br/>
+    Foundations of security operations, risk management, and incident handling.</p>
+  </div>
 
-    <td width="50%" valign="top">
-      <div style="text-align: center;">
-        <img src="/images/CySa%2B.png" width="80" alt="CompTIA CySA+" />
-        <p><strong>CompTIA CySA+</strong><br/>
-        Detection, analysis, and incident response in SOC environments.</p>
-      </div>
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/Security%2B.png" width="90" alt="CompTIA Security+" />
+    <p><strong>CompTIA Security+</strong><br/>
+    Core security concepts including threats, vulnerabilities, and network security.</p>
+  </div>
 
-      <div style="text-align: center;">
-        <img src="/images/Security%2B.png" width="80" alt="CompTIA Security+" />
-        <p><strong>CompTIA Security+</strong><br/>
-        Core security concepts including threats, vulnerabilities, and network security.</p>
-      </div>
-
-      <div style="text-align: center;">
-        <img src="/images/GSC-Cer.png" width="80" alt="Google Cybersecurity Certificate" />
-        <p><strong>Google Cybersecurity Certificate</strong><br/>
-        Foundations of security operations, risk management, and incident handling.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
+</div>
 ## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
