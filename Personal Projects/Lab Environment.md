@@ -13,7 +13,7 @@ The lab is intentionally built and documented through **iteration, failure, and 
 ---
 
 ## 2. High-Level Architecture
--SCREENSHOT TBC
+![[Lab-Environment.png]]
 
 **Core components**
 - Proxmox VE hypervisor
