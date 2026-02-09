@@ -12,10 +12,9 @@ This repository is used to document hands-on security operations work, incident-
 
 ## Certifications
 
-| Certificate Name                                                                                                                                  | Focus Area                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| <div style="display: flex; align-items: center; gap: 16px;"><br>    <img src="/images/CySa%2B.png" width="70" alt="CompTIA CySA+" /><br>    <div> | Blue-team focused certification covering detection, analysis, and incident response. |
-
+| Certificate | Focus Area |
+|------------|------------|
+| <div style="display:flex; align-items:center; gap:12px;"> <img src="/images/CySa%2B.png" width="60" alt="CompTIA CySA+" /> <strong>CompTIA CySA+</strong> </div> | <strong>CompTIA CySA+</strong> Blue-team focused certification covering detection, analysis, and incident response. |
 
 ## **Personal Projects**
 
