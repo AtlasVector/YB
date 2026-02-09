@@ -1,4 +1,5 @@
 # Hello, I'm Youssef
+
 <div>
   <a href="https://www.linkedin.com/in/benchatery/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,14 +32,14 @@ This repository is used to document hands-on security operations work, incident-
 
 ## **Personal Projects**
 
-| <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Lab Environment](https://github.com/AtlasVector/YB/)           | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
-| [Identity & Authentication](https://github.com/AtlasVector/YB/) | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
-| [Log Analysis](https://github.com/AtlasVector/YB/)              | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
-| [Detection](https://github.com/AtlasVector/YB/)                 | Brute-force authentication patterns, anomalous logon behavior                                           |
-| [Endpoint Security](https://github.com/AtlasVector/YB/)         | Microsoft Defender alerts, process tree analysis, execution context                                     |
-| [Network Monitoring](https://github.com/AtlasVector/YB/)        | Suricata alerts, basic traffic inspection, alert validation                                             |
+| <font color="#4f81bd">Focus Area                      | <font color="#4f81bd">Implementation details </font>                                                    |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Lab Environment](https://github.com/AtlasVector/YB/) | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
+| Identity & Authentication                             | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
+| Log Analysis                                          | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
+| Detection                                             | Brute-force authentication patterns, anomalous logon behavior                                           |
+| Endpoint Security                                     | Microsoft Defender alerts, process tree analysis, execution context                                     |
+| Network Monitoring                                    | Suricata alerts, basic traffic inspection, alert validation                                             |
 
 
 
