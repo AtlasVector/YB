@@ -1,30 +1,12 @@
-## 1. Purpose
+## Introduction
+While this is not my first home server, it is my first lab built with a clear focus on security operations. As a hobby, I have previously run a small personal home lab for **home automation and self-hosted services,** which helped me build a solid foundation in Linux, networking, and troubleshooting.
 
-This repository documents a personal cybersecurity lab designed to replicate the **technical and operational realities of a small enterprise environment**, with a specific focus on **SOC operations, detection engineering, and log-driven investigations**.
+I later built my first dedicated **cybersecurity lab** using VMware Fusion on a Windows host. That environment was essential for turning theory into practice, but as the lab grew I began to hit hardware limitations, particularly around RAM usage and scalability.
 
-Rather than optimizing for tooling breadth, the lab prioritizes:
-- End-to-end **telemetry visibility**
-- Understanding **where data is lost or distorted**
-- Solving **real operational failures**
-- Making monitoring **persistent, debuggable, and explainable**
-
-The lab is intentionally built and documented through **iteration, failure, and correction**, mirroring how production SOC environments actually evolve.
+To remove those constraints and enable further experimentation, I decided to rebuild the lab on **Proxmox VE**. Rather than migrating the existing environment, I chose to start over, using the opportunity to apply what I had learned and intentionally face new technical challenges.
 
 ---
 
 ## 2. High-Level Architecture
+
 <img src="/Personal%20Projects/resources/Lab-Environment.png" />
-
-
-**Core components**
-- Proxmox VE hypervisor
-- pfSense firewall and inter-VLAN router
-- Linux bridge networking (no OVS)
-- Dedicated Suricata IDS sensor
-- Windows Server & Workstation endpoints
-- Elastic Stack for centralized logging
-- Kali Linux for controlled attack simulation
-
-  
-
----
