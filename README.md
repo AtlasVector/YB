@@ -12,13 +12,13 @@ This repository is used to document hands-on security operations work, incident-
 
 ## Certifications
 
-|                                                                                                                                           |                                                                                                                                                                                                                     |
+| Certificate                                                                                                                               | Details                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <div style="align-items:center;"> <img src="/images/GSC-Cer.png" width="80" alt="Google Cybersecurity Professional Certificate" /> </div> | **Google Cybersecurity Professional Certificate**<br>Issued: Jun 8, 2025<br><br>Foundational coverage of security operations, risk management, incident handling, and security fundamentals across IT environments. |
 | <div style="align-items:center;"> <img src="/images/Security_Plus.png" width="80" alt="CompTIA Security+" /> </div>                       | **CompTIA Security+**<br>Issued: September 26. 2025<br><br>Core security concepts including threats, vulnerabilities, network security, identity fundamentals, and incident response.                               |
 | <div style="align-items:center;"> <img src="/images/CySa_Plus.png" width="80" alt="CompTIA Cybersecurity Analyst (CySA+)" /> </div>       | **CompTIA Cybersecurity Analyst (CySA+)**<br>Issued: August 11. 2025<br><br>Blue-team focused certification covering threat detection, log analysis, security monitoring, and incident response workflows.          |
 | <div style="align-items:center;"> <img src="/images/SC-200.png" width="80" alt="Microsoft SC-200" /> </div>                               | **Microsoft SC-200**<br>Currently In Progress<br><br>– Security Operations Analyst <br>                                                                                                                             |
-|                                                                                                                                           |                                                                                                                                                                                                                     |
+
 
 ## **Personal Projects**
 
