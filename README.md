@@ -23,24 +23,11 @@ This repository is used to document hands-on security operations work, incident-
       <span>Blue-team focused certification covering detection, analysis, and incident response.</span>
     </div>
   </div>
+  
+</div>
 
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="/images/GSC-Cer.png" width="70" alt="Google Cybersecurity Certificate" />
-    <div>
-      <strong>Google Cybersecurity Certificate</strong><br/>
-      <span>Foundations of security operations, risk management, and incident handling.</span>
-    </div>
-  </div>
 
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="/images/Security%2B.png" width="70" alt="CompTIA Security+" />
-    <div>
-      <strong>CompTIA Security+</strong><br/>
-      <span>Core security concepts including threats, vulnerabilities, and network security.</span>
-    </div>
-  </div>
-
-</div>## **Personal Projects**
+## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
