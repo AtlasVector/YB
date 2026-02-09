@@ -12,7 +12,9 @@ This repository is used to document hands-on security operations work, incident-
 
 ## **Certifications**
 <div>
-    <img src="https://github.com/AtlasVector/YB/blob/main/images/CySa%2B.png" />
+    <img src="/images/CySa%2B.png" />
+    <img src="/images/GSC-Cer.png" />
+    <img src="/images/Security%2B.png" />
 </div>
 
 ## **Personal Projects**
