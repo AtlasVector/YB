@@ -14,11 +14,11 @@ This repository is used to document hands-on security operations work, incident-
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| TEST TEST TEST TEST TEST           | <a href="https://google.com">EST TESTEST TESTEST TEST</a>|
-| TEST TEST TEST TEST TEST   | <a href="https://google.com">EST TESTEST TESTEST TEST</a>|
-| TEST TEST TESTTEST TEST TEST TEST TEST             | EST TESTEST TEST|
-| TEST TEST TEST TEST TEST EST TESTT    | EST TESTEST TEST|
-| TEST TEST TEST TEST TEST                    | EST TESTEST TESTEST TEST|
-| TEST TEST TEST TEST TEST TEST TEST TEST TEST     | EST TESTEST TESTEST TESTEST TEST|
+| Skill                                        | Associated Project                                                                                 |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Incident Response                            | <a href="https://google.com">Triage, escalation, live incident support, post-incident analysis</a> |
+| TEST TEST TEST TEST TEST                     | <a href="https://google.com">EST TESTEST TESTEST TEST</a>                                          |
+| TEST TEST TESTTEST TEST TEST TEST TEST       | EST TESTEST TEST                                                                                   |
+| TEST TEST TEST TEST TEST EST TESTT           | EST TESTEST TEST                                                                                   |
+| TEST TEST TEST TEST TEST                     | EST TESTEST TESTEST TEST                                                                           |
+| TEST TEST TEST TEST TEST TEST TEST TEST TEST | EST TESTEST TESTEST TESTEST TEST                                                                   |
