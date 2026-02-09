@@ -29,7 +29,7 @@ This repository is used to document hands-on security operations work, incident-
 | <div style="align-items:center;"> <img src="/images/CySa_Plus.png" width="80" alt="CompTIA Cybersecurity Analyst (CySA+)" /> </div>       | <br>**CompTIA Cybersecurity Analyst (CySA+)**<br>Issued: August 11. 2025<br><br>Blue-team focused certification covering threat detection, log analysis, security monitoring, and incident response workflows.          |
 | <div style="align-items:center;"> <img src="/images/SC-200.png" width="80" alt="Microsoft SC-200" /> </div>                               | <br>**Microsoft SC-200**<br>Currently In Progress<br><br>Security Operations Analyst                                                                                                                                    |
 
-## [**Personal Projects**](Personal Projects)
+## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                      | <font color="#4f81bd">Implementation details </font>                                                    |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
