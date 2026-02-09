@@ -1,10 +1,16 @@
 # Hello, I'm Youssef
-<a href="https://www.linkedin.com/in/benchatery/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.credly.com/users/benchater"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
-
-<a href="https://tryhackme.com/p/AtlasVec"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-
+<div>
+  <a href="https://www.linkedin.com/in/benchatery/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/benchater">
+    <img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/AtlasVec">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</div>
 
 ## **About**
 
