@@ -12,9 +12,12 @@ This repository is used to document hands-on security operations work, incident-
 
 ## Certifications
 
-| Certificate                                                                                                 | Focus Area                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <div style="align-items:center;"> <img src="/images/CySa_Plus.png" width="80" alt="CompTIA CySA+" /> </div> | <strong>CompTIA CySA+</strong> Blue-team focused certification covering detection, analysis, and incident response. |
+|                                                                                                             |                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <div style="align-items:center;"> <img src="/images/GSC-Cer.png" width="80" alt="Google Cybersecurity Professional Certificate" /> </div> | Google Cybersecurity Professional Certificate<br>Foundational coverage of security operations, risk management, incident handling, and security fundamentals across IT environments. |
+| <div style="align-items:center;"> <img src="/images/Security_Plus.png" width="80" alt="CompTIA Security+" /> </div> | CompTIA Security+<br>Core security concepts including threats, vulnerabilities, network security, identity fundamentals, and incident response.                                      |
+| <div style="align-items:center;"> <img src="/images/CySa_Plus.png" width="80" alt="CompTIA Cybersecurity Analyst (CySA+)" /> </div> | CompTIA Cybersecurity Analyst (CySA+)<br>Blue-team focused certification covering threat detection, log analysis, security monitoring, and incident response workflows.              |
+| <div style="align-items:center;"> <img src="/images/SC-200.ppng" width="80" alt="Microsoft SC-200" /> </div>             | Microsoft SC-200 – Security Operations Analyst (in progress)<br>                                                                                                                     |
 
 ## **Personal Projects**
 
