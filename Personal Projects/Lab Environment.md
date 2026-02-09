@@ -13,7 +13,8 @@ The lab is intentionally built and documented through **iteration, failure, and 
 ---
 
 ## 2. High-Level Architecture
-![[Lab-Environment.png]]
+<img src="/Personal%20Projects/resources/Lab-Environment.png" />
+
 
 **Core components**
 - Proxmox VE hypervisor
