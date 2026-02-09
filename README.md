@@ -9,23 +9,13 @@ Operations-focused security professional with experience in incident-driven envi
 ## **Focus**
 
 This repository is used to document hands-on security operations work, incident-response exercises, and practical experiments around detection, escalation, and decision-making. The goal is to stay operationally sharp and grounded in how incidents actually unfold.
+
 ## Certifications
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+| Certificate | Focus Area |
+|------------|------------|
+| <div style="display:flex; align-items:center; gap:12px;"> <img src="/images/CySa%2B.png" width="60" alt="CompTIA CySA+" /> <strong>CompTIA CySA+</strong> </div> | Blue-team focused certification covering detection, analysis, and incident response. |
 
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <img src="/images/CySa%2B.png" width="70" alt="CompTIA CySA+" />
-    <div>
-      <strong>CompTIA CySA+</strong><br/>
-      <span>Blue-team focused certification covering detection, analysis, and incident response.</span>
-    </div>
-  </div>
-  
-</div>
-
-| <font color="#4f81bd">Focus Area                                                                                                                  | <font color="#4f81bd">Implementation details </font>                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <div style="display: flex; align-items: center; gap: 16px;"><br>    <img src="/images/CySa%2B.png" width="70" alt="CompTIA CySA+" /><br>    <div> | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
 ## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
