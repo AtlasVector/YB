@@ -5,6 +5,16 @@ I later built my first dedicated **cybersecurity lab** using VMware Fusion on a 
 
 To remove those constraints and enable further experimentation, I decided to rebuild the lab on **Proxmox VE**. Rather than migrating the existing environment, I chose to start over, using the opportunity to apply what I had learned and intentionally face new technical challenges.
 
+## Lab Goals
+The primary goal of this lab is to create a learning environment where encountering problems is expected and encouraged. Instead of avoiding complexity, the lab is designed to introduce new challenges that require investigation, experimentation, and hands-on problem solving.
+
+The lab emphasizes:
+- Learning through troubleshooting and experimentation  
+- Facing unfamiliar technical challenges  
+- Validating ideas and assumptions by testing and observation  
+
+This approach creates continuous opportunities to build understanding and confidence by solving real problems rather than following predefined paths.
+
 ---
 
 ## 2. High-Level Architecture
