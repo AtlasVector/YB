@@ -12,28 +12,35 @@ This repository is used to document hands-on security operations work, incident-
 
 ## Certifications
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+## Certifications
 
-  <div style="max-width: 160px; text-align: center;">
-    <img src="/images/CySa%2B.png" width="90" alt="CompTIA CySA+" />
-    <p><strong>CompTIA CySA+</strong><br/>
-    Blue-team focused certification covering detection, analysis, and incident response.</p>
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="/images/CySa%2B.png" width="70" alt="CompTIA CySA+" />
+    <div>
+      <strong>CompTIA CySA+</strong><br/>
+      <span>Blue-team focused certification covering detection, analysis, and incident response.</span>
+    </div>
   </div>
 
-  <div style="max-width: 160px; text-align: center;">
-    <img src="/images/GSC-Cer.png" width="90" alt="Google Cybersecurity Certificate" />
-    <p><strong>Google Cybersecurity Certificate</strong><br/>
-    Foundations of security operations, risk management, and incident handling.</p>
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="/images/GSC-Cer.png" width="70" alt="Google Cybersecurity Certificate" />
+    <div>
+      <strong>Google Cybersecurity Certificate</strong><br/>
+      <span>Foundations of security operations, risk management, and incident handling.</span>
+    </div>
   </div>
 
-  <div style="max-width: 160px; text-align: center;">
-    <img src="/images/Security%2B.png" width="90" alt="CompTIA Security+" />
-    <p><strong>CompTIA Security+</strong><br/>
-    Core security concepts including threats, vulnerabilities, and network security.</p>
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="/images/Security%2B.png" width="70" alt="CompTIA Security+" />
+    <div>
+      <strong>CompTIA Security+</strong><br/>
+      <span>Core security concepts including threats, vulnerabilities, and network security.</span>
+    </div>
   </div>
 
-</div>
-## **Personal Projects**
+</div>## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
