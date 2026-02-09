@@ -12,9 +12,10 @@ This repository is used to document hands-on security operations work, incident-
 
 ## **Certifications**
 <div>
-    <img src="#" />
+    <img src="https://github.com/AtlasVector/YB/blob/main/images/CySa%2B.png" />
 </div>
-![[GSC-Cer.png]]## **Personal Projects**
+
+## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -24,10 +25,7 @@ This repository is used to document hands-on security operations work, incident-
 | [Detection](https://github.com/AtlasVector/YB/)                 | Brute-force authentication patterns, anomalous logon behavior                                           |
 | [Endpoint Security](https://github.com/AtlasVector/YB/)         | Microsoft Defender alerts, process tree analysis, execution context                                     |
 | [Network Monitoring](https://github.com/AtlasVector/YB/)        | Suricata alerts, basic traffic inspection, alert validation                                             |
-## **Certifications**
-<div>
-    <img src="/images/CySa%2B.png" />
-</div>
+
 
 
 ## **Tools**
