@@ -2,16 +2,19 @@
 <a href="https://www.linkedin.com/in/benchatery/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## About
+## **About**
 
 Operations-focused security professional with experience in incident-driven environments, escalation handling, and hands-on security operations. Background includes team leadership, real-time incident response, and practical work with SIEM, log analysis, and detection. This repository contains personal notes, labs, and exercises focused on how security operations work in practice.
 
-## Focus
+## **Focus**
 
 This repository is used to document hands-on security operations work, incident-response exercises, and practical experiments around detection, escalation, and decision-making. The goal is to stay operationally sharp and grounded in how incidents actually unfold.
 
-
-## **Personal Projects**
+## **Certifications**
+<div>
+    <img src="#" />
+</div>
+![[GSC-Cer.png]]## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -21,9 +24,11 @@ This repository is used to document hands-on security operations work, incident-
 | [Detection](https://github.com/AtlasVector/YB/)                 | Brute-force authentication patterns, anomalous logon behavior                                           |
 | [Endpoint Security](https://github.com/AtlasVector/YB/)         | Microsoft Defender alerts, process tree analysis, execution context                                     |
 | [Network Monitoring](https://github.com/AtlasVector/YB/)        | Suricata alerts, basic traffic inspection, alert validation                                             |
+## **Certifications**
+![[GSC-Cer 1.png]]
+
 
 ## **Tools**
-
 #### **Virtualization & Lab Infrastructure**
 <div>
     <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
