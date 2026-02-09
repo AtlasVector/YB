@@ -15,7 +15,7 @@ This repository is used to document hands-on security operations work, incident-
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/AtlasVector/YB/" target="_blank" rel="noopener noreferrer">Lab Environment</a>           | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
+| [Lab Environment](https://github.com/AtlasVector/YB/)           | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
 | [Identity & Authentication](https://github.com/AtlasVector/YB/) | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
 | [Log Analysis](https://github.com/AtlasVector/YB/)              | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
 | [Detection](https://github.com/AtlasVector/YB/)                 | Brute-force authentication patterns, anomalous logon behavior                                           |
