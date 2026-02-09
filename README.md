@@ -10,13 +10,29 @@ Operations-focused security professional with experience in incident-driven envi
 
 This repository is used to document hands-on security operations work, incident-response exercises, and practical experiments around detection, escalation, and decision-making. The goal is to stay operationally sharp and grounded in how incidents actually unfold.
 
-## **Certifications**
-<div>
-    <img src="/images/CySa%2B.png" />
-    <img src="/images/GSC-Cer.png" />
-    <img src="/images/Security%2B.png" />
-</div>
+## Certifications
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/CySa%2B.png" width="90" alt="CompTIA CySA+" />
+    <p><strong>CompTIA CySA+</strong><br/>
+    Blue-team focused certification covering detection, analysis, and incident response.</p>
+  </div>
+
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/GSC-Cer.png" width="90" alt="Google Cybersecurity Certificate" />
+    <p><strong>Google Cybersecurity Certificate</strong><br/>
+    Foundations of security operations, risk management, and incident handling.</p>
+  </div>
+
+  <div style="max-width: 160px; text-align: center;">
+    <img src="/images/Security%2B.png" width="90" alt="CompTIA Security+" />
+    <p><strong>CompTIA Security+</strong><br/>
+    Core security concepts including threats, vulnerabilities, and network security.</p>
+  </div>
+
+</div>
 ## **Personal Projects**
 
 | <font color="#4f81bd">Focus Area                                | <font color="#4f81bd">Implementation details </font>                                                    |
