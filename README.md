@@ -43,12 +43,13 @@ This repository is used to document hands-on security operations work, incident-
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+#### **Endpoint Security**
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 #### **Offensive Security (Lab Use)**
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
-#### **Endpoint Security**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
