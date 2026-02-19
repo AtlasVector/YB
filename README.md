@@ -31,15 +31,10 @@ This repository is used to document hands-on security operations work, incident-
 
 ## **Personal Projects**
 
-| <font color="#4f81bd">Focus Area                                      | <font color="#4f81bd">Implementation details </font>                                                    |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Lab Environment](https://github.com/AtlasVector/SOC-Lab-Environment) | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration |
-| Identity & Authentication                                             | Windows Security Events 4624 and 4625, logon types, source host analysis                                |
-| Log Analysis                                                          | ELK stack, Windows event ingestion, search and filtering in Kibana                                      |
-| Detection                                                             | Brute-force authentication patterns, anomalous logon behavior                                           |
-| Endpoint Security                                                     | Microsoft Defender alerts, process tree analysis, execution context                                     |
-| Network Monitoring                                                    | Suricata alerts, basic traffic inspection, alert validation                                             |
-
+| Focus Area                                                              | Implementation details                                                                                                            |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Lab Environment](https://github.com/AtlasVector/SOC-Lab-Environment)   | Active Directory domain setup, Windows workstations, Suricata IDS, ELK stack deployment and integration                           |
+| [Microsoft Defender](https://github.com/AtlasVector/Microsoft-Defender) | Defender / Sentinel dashboards and KQL queries to track high-volume failed logons and suspicious sign-in patterns across the lab. |
 
 
 ## **Tools**
